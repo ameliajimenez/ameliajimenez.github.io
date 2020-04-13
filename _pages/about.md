@@ -21,7 +21,9 @@ table, tr, td {
        <col span="1" style="width: 12%;">
        <col span="1" style="width: 88%;">
 </colgroup>
-<tr><td> Sept. 2018: </td> <td> Oral and poster presentation of our work entitled <a href="https://arxiv.org/abs/1807.07559"> "Capsule Networks against Medical Imaging Data Challenges" </a> at <a href="https://labels.tue-image.nl/previous-editions/labels-2018/"></a> LABELS Workshop - MICCAI 2018 </a> in Granada, Spain.
+<tr><td> Sept. 2019: </td> <td> Poster presentation of our work entitled <a href="https://arxiv.org/abs/2004.00482"> "Medical-based Deep Curriculum Learning for Improved Fracture Classification" </a> at <a href="https://www.miccai2019.org/programme/poster-sessions-tentative/"> MICCAI 2019 </a> in Shenzhen, China.
+</td></tr> 
+<tr><td> Sept. 2018: </td> <td> Oral and poster presentation of our work entitled <a href="https://arxiv.org/abs/1807.07559"> "Capsule Networks against Medical Imaging Data Challenges" </a> at <a href="https://labels.tue-image.nl/previous-editions/labels-2018/"> LABELS Workshop - MICCAI 2018 </a> in Granada, Spain.
 </td></tr> 
 <tr><td> July 2018: </td> <td> I have attended <a href="https://arxiv.org/abs/1807.07559"> PAISS Summer School </a> in Grenoble, France.
 </td></tr> 
