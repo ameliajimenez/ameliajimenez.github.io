@@ -99,6 +99,7 @@
   padding-right: 25px;
   line-height: 1;
   white-space: nowrap;
+  overflow: hidden;
 
   @include breakpoint($large) {
     display: block;
