@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : # name
+  name             : "Amelia Jiménez-"
   avatar           : "profile.png"
-  bio              : "Amelia Jiménez-Sánchez"
+  bio              : #"PhD Student"
   location         : "Barcelona, Spain"
   employer         :
   pubmed           : 
