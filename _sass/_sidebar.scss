@@ -13,9 +13,9 @@
   @include clearfix();
   margin-bottom: 1em;
 
-  @include breakpoint($x-large) {
+  @include breakpoint($large) {
     @include span(2 of 12);
-    opacity: 1;
+    opacity: 0.75;
     -webkit-transition: opacity 0.2s ease-in-out;
             transition: opacity 0.2s ease-in-out;
 
@@ -56,7 +56,7 @@
     position: relative;
     float: right;
     width: $right-sidebar-width-narrow;
-    margin-left: span(0 of 12);
+    margin-left: span(0.5 of 12);
     z-index: 10;
   }
 
@@ -73,8 +73,7 @@
   display: table-cell;
   vertical-align: top;
   width: 36px;
-  // set width only, for non-square avatars
-  // height: 36px;
+  height: 36px;
 
   @include breakpoint($large) {
     display: block;
@@ -99,7 +98,6 @@
   padding-left: 15px;
   padding-right: 25px;
   line-height: 1;
-   
 
   @include breakpoint($large) {
     display: block;
@@ -224,7 +222,7 @@
   a {
     display: block;
     margin-bottom: 5px;
-    padding-right: 1px;
+    padding-right: 5px;
     padding-top: 2px;
     padding-bottom: 2px;
     color: inherit;
