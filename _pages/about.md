@@ -7,8 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-Amelia joined [Universitat Pompeu Fabra (UPF)](https://www.upf.edu/web/ameliajimenez) in October 2017, she is a PhD student under the supervision of Prof. Gemma Piella. Her research interests lie at the intersection of computer vision and medical image analysis, in particular, using machine learning and deep learning techniques. She is especially interested in representation learning techniques to discover meaningful and interpretable embedded spaces.
+Amelia is a third year PhD student at BCN MedTech at [Universitat Pompeu Fabra (UPF)](https://www.upf.edu/web/ameliajimenez), where I am advised by [Prof. Gemma Piella](https://www.upf.edu/es/web/etic/entry/-/-/37215/409/gema-piella) and [Prof. Diana Mateus](https://www.ls2n.fr/annuaire/Diana%20MATEUS/). Her research interests lie in the field of Representation Learning techniques, such as Curiculum Learning or Capsule Networks, to deal with multi-class classification under limited data, noisy labels and imbalance in the class distribution of medical datasets.
 
 Updates
 ======
@@ -20,8 +19,8 @@ table, tr, td {
 <div style="height:250px;overflow:auto;border:0px;border-collapse: collapse;" >
 <table  border="none" style="border:0px;border-collapse: collapse;" rules="none" >
 <colgroup>
-       <col span="1" style="width: 12%;">
-       <col span="1" style="width: 88%;">
+       <col span="1" style="width: 14%;">
+       <col span="1" style="width: 86%;">
 </colgroup>
 <tr><td> June 2020: </td> <td> Our work entitled <a href="https://arxiv.org/abs/1902.01338"> "Precise Proximal Femur Fracture Classification for Interactive Training and Surgical Planning" </a> has been accepted for oral presentation at <a href="http://www.ipcai.org/"> IPCAI 2020 </a> and journal publication in <a href="https://www.springer.com/journal/11548"> IJCARS.
 </td></tr> 
