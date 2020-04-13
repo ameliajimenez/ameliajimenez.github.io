@@ -24,7 +24,11 @@ LABELS -- MICCAI 2018 \[[<span style="color:blue">Paper</span>](https://arxiv.or
 
 **Automatic Classification of Proximal Femur Fractures based on Attention Models**
 Anees Kazi, Shadi Albarqouni, Amelia Jimenez Sanchez, Sonja Kirchhoff, Peter Biberthaler, Nassir Navab, Diana Mateus
-MLMI -- MICCAI 2017 \[[<span style="color:blue">Paper</span>](https://link.springer.com/chapter/10.1007/978-3-319-67389-9_9)\] 
+MLMI -- MICCAI 2017 \[[<span style="color:blue">Paper</span>](https://link.springer.com/chapter/10.1007/978-3-319-67389-9_9)\]
+
+**A Unified View of Label Shift Estimation**   
+Saurabh Garg, Yifan Wu, Sivaraman Balakrishnan, Zachary Lipton  
+Under Submission \[[<span style="color:blue">arxiv</span>](https://arxiv.org/abs/2003.07554)\]
 
 
 You can also find my articles on <u><a href="https://scholar.google.com/citations?user=2xeIA9sAAAAJ&hl">my Google Scholar profile</a>.</u>
