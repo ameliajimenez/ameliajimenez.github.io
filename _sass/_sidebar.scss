@@ -11,7 +11,8 @@
           transform: translate3d(0, 0 , 0);
 
   @include clearfix();
-  margin-bottom: 1em;
+  margin-bottom: 0;
+  margin-right: 0 !important;
 
   @include breakpoint($large) {
     @include span(2 of 12);
