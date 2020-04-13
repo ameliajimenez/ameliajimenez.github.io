@@ -23,11 +23,11 @@ table, tr, td {
        <col span="1" style="width: 12%;">
        <col span="1" style="width: 88%;">
 </colgroup>
-<tr><td> June 2020: </td> <td> Our work entitled <a href"https://arxiv.org/abs/1902.01338"> "Precise Proximal Femur Fracture Classification for Interactive Training and Surgical Planning" </a> has been accepted for oral presentation at <a href="http://www.ipcai.org/"> IPCAI 2020 </a> and journal publication in IJCARS.
+<tr><td> June 2020: </td> <td> Our work entitled <a href="https://arxiv.org/abs/1902.01338"> "Precise Proximal Femur Fracture Classification for Interactive Training and Surgical Planning" </a> has been accepted for oral presentation at <a href="http://www.ipcai.org/"> IPCAI 2020 </a> and journal publication in IJCARS.
 </td></tr> 
 <tr><td> June 2020: </td> <td> Our work entitled "Hierarchical Deep Curriculum Learning for the Classification of Proximal Femur Fractures" has been accepted for oral presentation at <a href="https://www.cars-int.org/fileadmin/templates/downkoad/CARS2020_Preliminary_Program-28022020.pdf"> CARS 2020 </a>
 </td></tr> 
-<tr><td> December 2019: </td> <td> Poster presentation at <a href="https://sites.google.com/view/dlbcn2019/home"></a> the Deep Learning Barcelona Symposium </a> (DLBCN 2019).
+<tr><td> December 2019: </td> <td> Poster presentation at <a href="https://sites.google.com/view/dlbcn2019/home"> the Deep Learning Barcelona Symposium </a> (DLBCN 2019).
 </td></tr> 
 <tr><td> September 2019: </td> <td> Poster presentation of our work entitled <a href="https://arxiv.org/abs/2004.00482"> "Medical-based Deep Curriculum Learning for Improved Fracture Classification" </a> at <a href="https://www.miccai2019.org/programme/poster-sessions-tentative/"></a> MICCAI 2019 </a> in Shenzhen, China.
 </td></tr> 
