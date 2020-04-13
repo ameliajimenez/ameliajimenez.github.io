@@ -21,7 +21,9 @@ table, tr, td {
        <col span="1" style="width: 12%;">
        <col span="1" style="width: 88%;">
 </colgroup>
-<tr><td> Dec. 2019: </td> <td> Poster presentation at <a href="https://sites.google.com/view/dlbcn2019/home"> the Deep Learning Barcelona Symposium </a> (DLBCN 2019).
+<tr><td> Jun. 2020: </td> <td> Our work entitled "Hierarchical Deep Curriculum Learning for the Classification of Proximal Femur Fractures" has been accepted for oral presentation at <a href="https://www.cars-int.org/fileadmin/templates/downkoad/CARS2020_Preliminary_Program-28022020.pdf"> CARS 2020</a>.
+</td></tr> 
+<tr><td> Dec. 2019: </td> <td> Poster presentation at <a href="https://sites.google.com/view/dlbcn2019/home"> the Deep Learning Barcelona Symposium</a> (DLBCN 2019).
 </td></tr> 
 <tr><td> Sept. 2019: </td> <td> Poster presentation of our work entitled <a href="https://arxiv.org/abs/2004.00482"> "Medical-based Deep Curriculum Learning for Improved Fracture Classification" </a> at <a href="https://www.miccai2019.org/programme/poster-sessions-tentative/"> MICCAI 2019 </a> in Shenzhen, China.
 </td></tr> 
