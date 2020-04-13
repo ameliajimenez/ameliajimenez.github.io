@@ -85,10 +85,10 @@ author:
   bio              : ""
   location         : "Barcelona, Spain"
   employer         :
-  pubmed           : ""
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=2xeIA9sAAAAJ&hl"
   email            : amelia.jimenez@upf.edu
-  researchgate     : https://www.researchgate.net/profile/Amelia_Jimenez_Sanchez
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : https://orcid.org/0000-0001-7870-0603
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
