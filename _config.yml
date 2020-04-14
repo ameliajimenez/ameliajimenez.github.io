@@ -214,6 +214,7 @@ defaults:
   - scope:
       path: ""
       type: publications
+      classes: wide
     values:
       layout: single
       author_profile: true
