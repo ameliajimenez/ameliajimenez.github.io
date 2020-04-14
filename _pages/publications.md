@@ -1,12 +1,14 @@
 ---
 layout: single
 classes: wide
-title: "Publications"
+#title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
 
-<br/>
+## Publications  
+
+
 **Precise Proximal Femur Fracture Classification for Interactive Training and Surgical Planning**     
 Amelia Jiménez-Sánchez, Anees Kazi, Shadi Albarqouni, Chlodwig Kirchhoff, Peter Biberthaler, Nassir Navab, Sonja Kirchhoff, Diana Mateus  
 IPCAI 2020 -- IJCARS [[Paper]](https://arxiv.org/abs/1902.01338)  
