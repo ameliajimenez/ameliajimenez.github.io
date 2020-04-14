@@ -1,7 +1,7 @@
 ---
 permalink: /
 #layout: archive
-#title: "About"
+title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,11 +9,9 @@ redirect_from:
   - /about.html
 ---
 
-## About
 Amelia is a third year PhD student at BCN MedTech at [Universitat Pompeu Fabra (UPF)](https://www.upf.edu/web/ameliajimenez), under the supervision of [Prof. Gemma Piella](https://www.upf.edu/es/web/etic/entry/-/-/37215/409/gema-piella) and [Prof. Diana Mateus](https://www.ls2n.fr/annuaire/Diana%20MATEUS/). Her research interests lie in the field of Representation Learning techniques, such as Curiculum Learning or Capsule Networks, to deal with multi-class classification under limited data, noisy labels and imbalance in the class distribution of medical datasets.
 
 ## Updates
-======
 <style>
 table, tr, td {
     border: none;
