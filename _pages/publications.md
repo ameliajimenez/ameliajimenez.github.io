@@ -1,12 +1,10 @@
 ---
 layout: single
 classes: wide
-#title: "Publications"
+title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
-## Publications  
 
 
 **Precise Proximal Femur Fracture Classification for Interactive Training and Surgical Planning**     
