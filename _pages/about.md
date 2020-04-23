@@ -9,7 +9,12 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Amelia, third year PhD student at BCN MedTech at [Universitat Pompeu Fabra (UPF)](https://www.upf.edu/web/ameliajimenez). I work under the supervision of [Gemma Piella](https://www.upf.edu/es/web/etic/entry/-/-/37215/409/gema-piella) and [Diana Mateus](https://www.ls2n.fr/annuaire/Diana%20MATEUS/). My research interests lie in the field of Representation Learning techniques, such as Curiculum Learning or Capsule Networks, to deal with multi-class classification under limited data, noisy labels and imbalance in the class distribution of medical datasets.
+Hi, I am Amelia, a third year Ph.D. candidate at the BCN MedTech group at [Universitat Pompeu Fabra (UPF)](https://www.upf.edu/web/ameliajimenez), under the supervision of [Gemma Piella](https://www.upf.edu/es/web/etic/entry/-/-/37215/409/gema-piella) and [Diana Mateus](https://www.ls2n.fr/annuaire/Diana%20MATEUS/). My research interests are in the broad areas of medical imaging and deep learning.
+ 
+I work on the design of data schedulers, i.e. a deep learning algorithm which determines the order and pace of instances presented to the optimizer, aiming to improve classification accuracy.
+ 
+Specifically, I focus on curriculum-based strategies to develop data schedulers able to deal with label noise, limited amounts of data and class-imbalance, problems that are fairly common in medical datasets.
+
 
 ## Updates
 <style>
