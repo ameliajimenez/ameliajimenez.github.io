@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Amelia Jiménez-Sánchez"
   avatar           : "profile.png"
-  bio              : "These lines <br /> show up with line breaks <br /> but within the same paragraph."
+  bio              : " PhD Researcher on Image Processing <br /> and Deep Learning, with <br /> applications on Medical Imaging."
   location         : "Barcelona, Spain"
   employer         :
   pubmed           : 
