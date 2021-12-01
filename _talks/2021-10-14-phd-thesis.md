@@ -1,5 +1,5 @@
 ---
-title: "PhD Thesis: “Learning Representations for Medical Image Diagnosis: Impact of Curriculum Training and Architectural Design"
+title: "Learning Representations for Medical Image Diagnosis: Impact of Curriculum Training and Architectural Design"
 collection: talks
 type: "Talk"
 permalink: /talks/2021-10-14-phd-thesis
