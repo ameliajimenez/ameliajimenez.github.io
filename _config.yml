@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Amelia Jiménez-Sánchez"
   avatar           : "profile.png"
-  bio              : " PhD Researcher on Deep Learning <br /> applied to Medical Imaging"
+  bio              : "Researcher on Learning deep-based Representations <br /> to Deal with Medical Data Challenges"
   location         : "Barcelona, Spain"
   employer         :
   pubmed           : 
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : https://www.linkedin.com/in/amejs/
   orcid            : 
   pinterest        :
   soundcloud       :
