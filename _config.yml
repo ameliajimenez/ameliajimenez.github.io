@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Amelia Jiménez-Sánchez"
   avatar           : "profile.png"
-  bio              : "Researcher on Learning deep-based Representations <br /> to Deal with Medical Data Challenges"
+  bio              : "Researcher on Learning Representations <br /> to Deal with Medical Data Challenges"
   location         : "Barcelona, Spain"
   employer         :
   pubmed           : 
@@ -182,7 +182,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: false
+    output: true
     permalink: /:collection/:path/
   talks:
     output: true
@@ -220,6 +220,16 @@ defaults:
       author_profile: true
       share: true
       comments: true
+
+  # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
   
   # _talks
   - scope:
