@@ -188,6 +188,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  Outreach:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -240,6 +243,16 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+
+  # _outreach
+  - scope:
+      path: ""
+      type: outreach
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
 
 # Sass/SCSS
 sass:
