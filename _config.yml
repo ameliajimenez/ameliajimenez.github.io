@@ -177,7 +177,7 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: false
+    output: true
     permalink: /:collection/:path/
   publications:
     output: true
@@ -186,9 +186,6 @@ collections:
     output: true
     permalink: /:collection/:path/
   talks:
-    output: true
-    permalink: /:collection/:path/
-  Outreach:
     output: true
     permalink: /:collection/:path/
 
@@ -213,6 +210,16 @@ defaults:
     values:
       layout: single
       author_profile: true
+
+  # _teaching
+  - scope:
+      path: ""
+      type: teaching
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
       
   # _publications
   - scope:
@@ -244,15 +251,6 @@ defaults:
       author_profile: true
       share: true
 
-  # _outreach
-  - scope:
-      path: ""
-      type: outreach
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
 
 # Sass/SCSS
 sass:
