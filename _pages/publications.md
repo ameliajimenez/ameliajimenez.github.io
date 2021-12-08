@@ -9,7 +9,7 @@ author_profile: true
 **Curriculum Learning for Improved Femur Fracture Classification: Scheduling Data with Prior Knowledge and Uncertainty**     
 Amelia Jiménez-Sánchez, Diana Mateus, Sonja Kirchhoff, Chlodwig Kirchhoff, Peter Biberthaler, Nassir Navab, Miguel A. González Ballester, Gemma Piella  
 Medical Image Analysis 2021  
-**[arXiv](https://arxiv.org/abs/2007.16102)** / **[Paper](https://www.sciencedirect.com/science/article/abs/pii/S1361841521003182)** / **[Code](https://github.com/ameliajimenez/curriculum-learning-prior-uncertainty)** / 
+**[arXiv](https://arxiv.org/abs/2007.16102)** / **[Paper](https://www.sciencedirect.com/science/article/abs/pii/S1361841521003182)** / **[Code](https://github.com/ameliajimenez/curriculum-learning-prior-uncertainty)** 
 
 **Precise Proximal Femur Fracture Classification for Interactive Training and Surgical Planning**     
 Amelia Jiménez-Sánchez, Anees Kazi, Shadi Albarqouni, Chlodwig Kirchhoff, Peter Biberthaler, Nassir Navab, Sonja Kirchhoff, Diana Mateus  
@@ -27,7 +27,7 @@ LABELS -- MICCAI 2018
 **[arXiv](https://arxiv.org/abs/1807.07559)** / **[Paper](https://link.springer.com/chapter/10.1007%2F978-3-030-01364-6_17)** / **[Slides](https://www.upf.edu/documents/227877672/228393595/labels18_slides.pdf/82bdbff1-99e3-f538-bef4-aba78253c548)** / **[Poster](https://www.upf.edu/documents/227877672/228393595/labels18_poster.pdf/e38c8fbf-fe25-1240-9756-f5899f86f957)** / **[Code](https://github.com/ameliajimenez/capsule-networks-medical-data-challenges)**
 
 **Automatic Classification of Proximal Femur Fractures based on Attention Models**    
-Anees Kazi, Shadi Albarqouni, Amelia Jiménez-Sánchez, Sonja Kirchhoff, Peter Biberthaler, Nassir Navab, Diana Mateus
+Anees Kazi, Shadi Albarqouni, Amelia Jiménez-Sánchez, Sonja Kirchhoff, Peter Biberthaler, Nassir Navab, Diana Mateus  
 MLMI -- MICCAI 2017  
 **[Paper](https://link.springer.com/chapter/10.1007/978-3-319-67389-9_9)**
 
