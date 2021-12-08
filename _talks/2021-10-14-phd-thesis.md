@@ -8,6 +8,6 @@ date: 2021-10-14
 location: "Barcelona, Spain"
 ---
 
-I have recently defended my PhD thesis. The presentation is available on [Youtube](https://www.youtube.com/watch?v=RvlRW6g_7Co&ab_channel=AmeliaJim%C3%A9nezS%C3%A1nchez).
+My dissertation presentation is available on [Youtube](https://www.youtube.com/watch?v=RvlRW6g_7Co&ab_channel=AmeliaJim%C3%A9nezS%C3%A1nchez).
 
 <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/RvlRW6g_7Co" title="YouTube video player" width="560"></iframe>
