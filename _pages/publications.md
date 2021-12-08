@@ -6,9 +6,10 @@ permalink: /publications/
 author_profile: true
 ---
 
-***[Curriculum learning for improved femur fracture classification: scheduling data with prior knowledge and uncertainty](https://www.sciencedirect.com/science/article/abs/pii/S1361841521003182)***     
+**Curriculum learning for improved femur fracture classification: scheduling data with prior knowledge and uncertainty**     
 Amelia Jiménez-Sánchez, Diana Mateus, Sonja Kirchhoff, Chlodwig Kirchhoff, Peter Biberthaler, Nassir Navab, Miguel A. González Ballester, Gemma Piella  
 Medical Image Analysis 2021
+**[arXiv](https://arxiv.org/abs/2007.16102)** / **[Paper](https://www.sciencedirect.com/science/article/abs/pii/S1361841521003182)** / **[Code](https://github.com/ameliajimenez/curriculum-learning-prior-uncertainty)** / 
 
 ***[Precise Proximal Femur Fracture Classification for Interactive Training and Surgical Planning](https://link.springer.com/article/10.1007%2Fs11548-020-02150-x)***     
 Amelia Jiménez-Sánchez, Anees Kazi, Shadi Albarqouni, Chlodwig Kirchhoff, Peter Biberthaler, Nassir Navab, Sonja Kirchhoff, Diana Mateus  
