@@ -12,5 +12,5 @@ amelia.jimenez@upf.edu
 ### Twitter: 
  [@ameliajimsan](https://twitter.com/ameliajimsan)
  
- ### Skype:  
+### Skype:  
 amelia.js
