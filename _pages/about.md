@@ -16,7 +16,7 @@ I am an engineer and data scientist working on deep learning applied to medical 
 This website contains some personal and professional information about me.
 <br />
 <br />
-
+<br />
 
 ## Updates
 <style>
