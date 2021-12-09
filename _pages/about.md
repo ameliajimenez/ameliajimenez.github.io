@@ -27,16 +27,8 @@ table, tr, td {
        <col span="1" style="width: 12%;">
        <col span="1" style="width: 88%;">
 </colgroup>
-<tr><td> Jun. 2020: </td> <td> <a href="https://arxiv.org/abs/1902.01338"> "Precise Proximal Femur Fracture Classification for Interactive Training and Surgical Planning"</a> has been accepted for oral presentation at <a href="http://www.ipcai.org/"> IPCAI 2020 </a> and journal publication in <a href="https://www.springer.com/journal/11548"> IJCARS</a>.
+<tr><td> Oct. 2021: </td> <td> " I have successfully defended my PhD thesis "Learning Representations for Medical Image Diagnosis: Impact of Curriculum Training and Architectural Design". Thrilled to have been awarded with the mention "Cum Laude".
 </td></tr> 
-<tr><td> Jun. 2020: </td> <td> "Hierarchical Deep Curriculum Learning for the Classification of Proximal Femur Fractures" has been accepted for oral presentation at <a href="https://www.cars-int.org/fileadmin/templates/downkoad/CARS2020_Preliminary_Program-28022020.pdf"> CARS 2020</a>.
-</td></tr> 
-<tr><td> Dec. 2019: </td> <td> Poster presentation at <a href="https://sites.google.com/view/dlbcn2019/home"> the Deep Learning Barcelona Symposium</a> (DLBCN 2019).
-</td></tr> 
-<tr><td> Oct. 2019: </td> <td> Poster presentation of <a href="https://arxiv.org/abs/2004.00482"> "Medical-based Deep Curriculum Learning for Improved Fracture Classification"</a> at <a href="https://www.miccai2019.org/programme/poster-sessions-tentative/"> MICCAI 2019</a> in Shenzhen, China.
-</td></tr> 
-<tr><td> Sept. 2018: </td> <td> Oral and poster presentation of <a href="https://arxiv.org/abs/1807.07559"> "Capsule Networks against Medical Imaging Data Challenges"</a> at <a href="https://labels.tue-image.nl/previous-editions/labels-2018/"> LABELS Workshop - MICCAI 2018</a> in Granada, Spain.
-</td></tr> 
-<tr><td> July 2018: </td> <td> I have attended <a href="https://arxiv.org/abs/1807.07559"> PAISS Summer School</a> in Grenoble, France.
+<tr><td> Oct. 2021: </td> <td> Our work "Curriculum Learning for Improved Femur Fracture Classification: Scheduling Data with Prior Knowledge and Uncertainty" has been accepted for journal publication at Medical Image Analysis.
 </td></tr> 
 </table>
