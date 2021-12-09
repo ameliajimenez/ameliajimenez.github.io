@@ -5,6 +5,7 @@ title: "About me"
 permalink: /aboutme/
 author_profile: true
 ---
+:loudspeaker: At the moment I am in the job market: looking for postdoc positions.
 
 I graduated in October 2021 with a dissertation in **learning representations for medical image diagnosis** at the **Pompeu Fabra University** (UPF). I was part of the [BCN MedTech](https://www.upf.edu/web/bcn-medtech/) group and my PhD thesis was supervised by [Gemma Piella](https://www.upf.edu/web/simbiosys/entry/-/-/37215/adscripcion/gemma-piella) and [Diana Mateus]() (Ecole Centrale Nantes). During this time, I was an [INPhINIT](https://fundacionlacaixa.org/en/inphinit-doctoral-fellowships-call) fellow funded by “La Caixa” foundation and H2020 Marie Skłodowska-Curie programme. Previously, during my master’s studies at the **Technical University of Munich** (TUM), I was a research assistant at the Rechts der Isar Hospital of Munich.
 
@@ -12,5 +13,5 @@ Though I enjoy the maths side of my research, I like getting out of the research
 
 In my free time, I enjoy going to the **cinema and concerts, reading, cooking, traveling and playing board games**. Probably, I spend most of my free time doing **[sports](https://www.strava.com/athletes/80615838)**. I’m fond of team sports, I used to play handball, and I’m an occasional soccer and beach volleyball player. In recent times, I’ve discovered my passion for natural landscapes and love going to the **mountains**. I’m an active **hiker and cycler**. My passion for **music** is a bit controversial, I don’t have any musical education or experience but love all kinds of rhythms. I’ve just started to learn the box, let’s see how it goes.
 
-<p align="center"><img width="60%" src="../images/travessa-montseny.jpg"  /></p>
+<p align="center"><img width="50%" src="../images/travessa-montseny.jpg"  /></p>
 
