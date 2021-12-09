@@ -8,13 +8,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 Hi, I am **Amelia**. Welcome to my webpage!
 
 I am an engineer and data scientist working on deep learning applied to medical imaging.
 
 This website contains some personal and professional information about me.
-<br />
 <br />
 <br />
 
