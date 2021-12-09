@@ -18,6 +18,22 @@ This website contains some personal and professional information about me.
 <br />
 <br />
 
+<style>
+table, tr, td {
+    border: none;
+}
+</style>
+<div style="height:250px;overflow:auto;border:0px;border-collapse: collapse;" >
+<table  border="none" style="border:0px;border-collapse: collapse;" rules="none" >
+<colgroup>
+       <col span="1" style="width: 70%;">
+       <col span="1" style="width: 30%;">
+</colgroup>
+<tr><td> Hi, I am **Amelia**. Welcome to my webpage! </td> <td>     <img src="../images/poster-miccai19.jpg" alt="PosterMICCAI19" class="center" style="width:90%">
+</td></tr> 
+</table>
+
+
 ## Updates
 <style>
 table, tr, td {
