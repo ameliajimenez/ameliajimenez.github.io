@@ -6,6 +6,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+**Memory-aware curriculum federated learning for breast cancer classification**     
+Amelia Jiménez-Sánchez, Mickael Tardy, Miguel A. González Ballester, Diana Mateus, Gemma Piella  
+**[arXiv](https://arxiv.org/abs/2107.02504) 2021** (under review)
+
 **Curriculum Learning for Improved Femur Fracture Classification: Scheduling Data with Prior Knowledge and Uncertainty**     
 Amelia Jiménez-Sánchez, Diana Mateus, Sonja Kirchhoff, Chlodwig Kirchhoff, Peter Biberthaler, Nassir Navab, Miguel A. González Ballester, Gemma Piella  
 Medical Image Analysis 2021  
@@ -30,9 +34,5 @@ LABELS -- MICCAI 2018
 Anees Kazi, Shadi Albarqouni, Amelia Jiménez-Sánchez, Sonja Kirchhoff, Peter Biberthaler, Nassir Navab, Diana Mateus  
 MLMI -- MICCAI 2017  
 **[Paper](https://link.springer.com/chapter/10.1007/978-3-319-67389-9_9)**
-
-**Memory-aware curriculum federated learning for breast cancer classification**     
-Amelia Jiménez-Sánchez, Mickael Tardy, Miguel A. González Ballester, Diana Mateus, Gemma Piella  
-**[arXiv](https://arxiv.org/abs/2107.02504) 2021** (under review)
 
 You can also find my articles on <a href="https://scholar.google.com/citations?user=2xeIA9sAAAAJ&hl">my Google Scholar profile</a>.
