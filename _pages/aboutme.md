@@ -12,4 +12,4 @@ Though I enjoy the maths side of my research, I like getting out of the research
 
 I consider work-life balance very important. In my free time, I enjoy going to the **cinema and concerts, reading and playing board games**. Probably, I spend most of my free time doing **sports**. I’m fond of team sports, I used to play handball, and I’m an occasional soccer and beach volleyball player. In recent times, I’ve discovered my passion for natural landscapes and love going to the **mountains**. I’m an active **hiker and cycler**. My passion for **music** is a bit controversial, I don’t have any musical education or experience but love all kinds of rhythms. I’ve just started to learn the box, let’s see how it goes.
 
-<img src="../images/travessa-montseny.jpg" alt="TravessaMontseny" class="center" style="width:100%">
+<img src="../images/travessa-montseny.jpg" alt="TravessaMontseny" class="center" style="width:60%">
