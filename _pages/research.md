@@ -14,7 +14,7 @@ My PhD thesis was entitled **“Learning Representations for Medical Image Diagn
 
 You can **[watch](https://www.youtube.com/watch?v=RvlRW6g_7Co&feature=youtu.be&ab_channel=AmeliaJim%C3%A9nezS%C3%A1nchez)** or **[download](https://www.upf.edu/documents/227877672/228393595/thesis.pdf/fdc68a9d-012b-f513-1455-a6c93d4903b5)** my dissertation.
 
-
+<!--
 ## Projects
-[Link to paper](../publication/2009-10-01-paper-title-number-1)
+[Link to paper](../publication/2009-10-01-paper-title-number-1) -->
 
