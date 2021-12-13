@@ -179,9 +179,6 @@ collections:
   outreach:
     output: true
     permalink: /:collection/:path/
-  projects:
-    output: true
-    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
@@ -232,17 +229,6 @@ defaults:
       comments: true
       
   # _publications
-  - scope:
-      path: ""
-      type: publications
-      classes: wide
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-
-  # _projects
   - scope:
       path: ""
       type: publications

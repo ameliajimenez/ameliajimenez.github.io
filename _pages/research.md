@@ -16,5 +16,5 @@ You can **[watch](https://www.youtube.com/watch?v=RvlRW6g_7Co&feature=youtu.be&a
 
 
 ## Projects
-[Link to paper](../project/number-1)
+[Link to paper](../publication/2009-10-01-paper-title-number-1)
 
