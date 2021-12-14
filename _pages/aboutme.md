@@ -11,5 +11,8 @@ Though I enjoy the maths side of my work, I like getting out of the research bub
 
 In my free time, I enjoy going to the **cinema and concerts, reading, cooking and playing board games**. I probably spend most of my free time **traveling** and doing **[sports](https://www.strava.com/athletes/80615838)**. I’m fond of team sports: handball, soccer, beach volleyball, etc. I love being surrounded by nature, I enjoy going to the **mountains** and just staring at natural landscapes. I’m an active **hiker and cycler**. My passion for **music** is a bit controversial, I don’t have any musical education but love all kinds of rhythms. I’ve just started to learn the box, let’s see how it goes.
 
-<p align="center"><img width="50%" src="../images/travessa-montseny.jpg"  /></p>
+<figure>
+    <img src="../images/travessa-montseny.jpg" alt="TravessaMontseny" class="center" style="width:50%" />
+    <figcaption> <a href="https://www.travessa.org/">Travessa del Montseny</a></figcaption>
+</figure>
 
