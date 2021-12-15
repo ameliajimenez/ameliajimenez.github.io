@@ -18,3 +18,41 @@ You can **[watch](https://www.youtube.com/watch?v=RvlRW6g_7Co&feature=youtu.be&a
 ## Projects
 [Link to paper](../portfolio/2009-10-01-paper-title-number-1) -->
 
+<head>
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+</head>
+<body>
+
+<div class="row">
+  <div class="column">
+    <h2 style="text-align:center"><a href="../portfolio/2009-10-01-paper-title-number-1"> Curriculum Learning </a></h3>
+    <img src="../images/project-1.png" alt="Project1" class="center" style="width:80%">
+    <!---<p>Lorem ipsum dolor..</p>--->
+  </div>
+  <div class="column">
+    <h2 style="text-align:center"> <a href="../portfolio/2009-10-01-paper-title-number-1"> Capsule Networks </a></h3>
+    <img src="../images/project-2.png" alt="Project2" class="center" style="width:80%">
+  </div>
+  <div class="column">
+    <h2 style="text-align:center"> <a href="../portfolio/2009-10-01-paper-title-number-1"> Proximal femur fractures </a></h3>
+    <img src="../images/project-3.png" alt="Project3" class="center" style="width:80%">
+  </div>
+</div>
+
