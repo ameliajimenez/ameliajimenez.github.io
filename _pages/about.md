@@ -17,6 +17,7 @@ This website contains some personal and professional information about me.
 <br />
 <br />
 <br />
+<br />
 
 ## Updates
 <style>
