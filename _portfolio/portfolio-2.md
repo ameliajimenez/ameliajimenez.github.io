@@ -12,6 +12,6 @@ CNNs **requirement for big amounts of data** is commonly justified by a large nu
 **Capsule Networks** were introduced as an alternative deep learning architecture and training approach **to model the spatial/viewpoint variability of an object in the image**. Inspired by computer graphics, capsule networks not only learn good weights for feature extraction and image classification but also **learn how to infer pose parameters** from the image. Poses are modeled as multidimensional vectors whose entries parametrize spatial variations such as rotation, thickness, skewness, etc. As an example, a capsule network learns to determine whether a plane is in the image, but also if the plane is located to the left or right or if it is rotated. This is known as ***equivariance*** and it is a property of human one-shot learning type of vision.
 
 
-## Publications
+### Publications
 **Capsule Networks against Medical Imaging Data Challenges**. LABELS -- MICCAI 2018  
 **[arXiv](https://arxiv.org/abs/1807.07559)** / **[Paper](https://link.springer.com/chapter/10.1007%2F978-3-030-01364-6_17)** / **[Slides](https://www.upf.edu/documents/227877672/228393595/labels18_slides.pdf/82bdbff1-99e3-f538-bef4-aba78253c548)** / **[Poster](https://www.upf.edu/documents/227877672/228393595/labels18_poster.pdf/e38c8fbf-fe25-1240-9756-f5899f86f957)** / **[Code](https://github.com/ameliajimenez/capsule-networks-medical-data-challenges)**
