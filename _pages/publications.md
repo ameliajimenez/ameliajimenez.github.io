@@ -25,7 +25,7 @@ Amelia Jiménez-Sánchez, Diana Mateus, Sonja Kirchhoff, Chlodwig Kirchhoff, Pet
 MICCAI 2019  
 **[arXiv](https://arxiv.org/abs/2004.00482)** / **[Paper](https://link.springer.com/chapter/10.1007%2F978-3-030-32226-7_77)** / **[Slides](https://www.upf.edu/documents/227877672/228393595/miccai19_slides.pdf/f2a2e245-e61a-8938-8c16-7ce754c8685f)** / **[Poster](https://www.upf.edu/documents/227877672/228393595/miccai19_poster.pdf/4a06d02d-b138-8ebc-cd4f-ca875c5c46ac)** 
 
-**Capsule Networks against Medical Imaging Data Challenges**  
+**Capsule Networks against Medical Imaging Data Challenges**   
 Amelia Jiménez-Sánchez, Shadi Albarqouni, Diana Mateus  
 LABELS -- MICCAI 2018  
 **[arXiv](https://arxiv.org/abs/1807.07559)** / **[Paper](https://link.springer.com/chapter/10.1007%2F978-3-030-01364-6_17)** / **[Slides](https://www.upf.edu/documents/227877672/228393595/labels18_slides.pdf/82bdbff1-99e3-f538-bef4-aba78253c548)** / **[Poster](https://www.upf.edu/documents/227877672/228393595/labels18_poster.pdf/e38c8fbf-fe25-1240-9756-f5899f86f957)** / **[Code](https://github.com/ameliajimenez/capsule-networks-medical-data-challenges)**
