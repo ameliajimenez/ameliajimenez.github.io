@@ -18,5 +18,5 @@ Another approach to deal with class-imbalance and restricted-size datasets is to
 **Curriculum Learning for Improved Femur Fracture Classification: Scheduling Data with Prior Knowledge and Uncertainty**. Medical Image Analysis 2021.   
 **[arXiv](https://arxiv.org/abs/2007.16102)** / **[Paper](https://www.sciencedirect.com/science/article/abs/pii/S1361841521003182)** / **[Code](https://github.com/ameliajimenez/curriculum-learning-prior-uncertainty)**    
 
-**Memory-aware curriculum federated learning for breast cancer classification**     
-Resources: **[arXiv](https://arxiv.org/abs/2107.02504) 2021** (under review)   
+**Memory-aware Curriculum Federated Learning for Breast Cancer Classification**     
+**[arXiv](https://arxiv.org/abs/2107.02504) 2021** (under review)   
