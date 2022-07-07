@@ -31,7 +31,7 @@ table, tr, td {
        <col span="1" style="width: 12%;">
        <col span="1" style="width: 88%;">
 </colgroup>
-<tr><td> Jul. 2022: </td> <td> I will start a postdoc next month at IT University of Copenhagen with <a href="https://veronikach.com/">Veronika Cheplygina</a>.
+<tr><td> Jul. 2022: </td> <td> I will start a postdoc position next August at IT University of Copenhagen with <a href="https://veronikach.com/">Veronika Cheplygina</a>.
 </td></tr> 
 <tr><td> Oct. 2021: </td> <td> I have successfully defended my PhD thesis "Learning Representations for Medical Image Diagnosis: Impact of Curriculum Training and Architectural Design". Thrilled to have been awarded with the mention "Cum Laude".
 </td></tr> 
