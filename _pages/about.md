@@ -31,6 +31,8 @@ table, tr, td {
        <col span="1" style="width: 12%;">
        <col span="1" style="width: 88%;">
 </colgroup>
+<tr><td> Jul. 2022: </td> <td> "I will start a postdoc position next month at **IT University of Copenhagen** with [Veronika Cheplygina](https://veronikach.com/).
+</td></tr> 
 <tr><td> Oct. 2021: </td> <td> "I have successfully defended my PhD thesis "Learning Representations for Medical Image Diagnosis: Impact of Curriculum Training and Architectural Design". Thrilled to have been awarded with the mention "Cum Laude".
 </td></tr> 
 <tr><td> Oct. 2021: </td> <td> Our work "Curriculum Learning for Improved Femur Fracture Classification: Scheduling Data with Prior Knowledge and Uncertainty" has been accepted for journal publication at Medical Image Analysis.
