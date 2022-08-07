@@ -9,6 +9,8 @@ author_profile: true
 **Memory-aware curriculum federated learning for breast cancer classification**     
 Amelia Jiménez-Sánchez, Mickael Tardy, Miguel A. González Ballester, Diana Mateus, Gemma Piella  
 **[arXiv](https://arxiv.org/abs/2107.02504) 2021** (under review)
+**[<i class="fa-solid fa-file-pdf"></i>](https://arxiv.org/abs/2107.02504)**
+
 
 **Curriculum Learning for Improved Femur Fracture Classification: Scheduling Data with Prior Knowledge and Uncertainty**     
 Amelia Jiménez-Sánchez, Diana Mateus, Sonja Kirchhoff, Chlodwig Kirchhoff, Peter Biberthaler, Nassir Navab, Miguel A. González Ballester, Gemma Piella  
