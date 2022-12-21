@@ -31,7 +31,7 @@ table, tr, td {
        <col span="1" style="width: 12%;">
        <col span="1" style="width: 88%;">
 </colgroup>
-<tr><td> Aug. 2022: </td> <td> Our work "Memory-aware Curriculum Federated Learning for Breast Cancer Classification" has been accepted for journal publication at Computer Methods and Programs in Biomedicine</a>.
+<tr><td> Aug. 2022: </td> <td> Our work "Memory-aware Curriculum Federated Learning for Breast Cancer Classification" has been accepted for journal publication at Computer Methods and Programs in Biomedicine.
 </td></tr> 
 <tr><td> Aug. 2022: </td> <td> I have just started a postdoc position at IT University of Copenhagen with <a href="https://veronikach.com/">Veronika Cheplygina</a>.
 </td></tr> 
