@@ -31,6 +31,8 @@ table, tr, td {
        <col span="1" style="width: 12%;">
        <col span="1" style="width: 88%;">
 </colgroup>
+<tr><td> Jan. 2023: </td> <td> We are organizing a webinar series: [Datasets through the L👀king-Glass](https://purrlab.github.io/webinar/) to better understand what are researchers doing with their (meta-) data.
+</td></tr> 
 <tr><td> Dec. 2022: </td> <td> Our work "Memory-aware Curriculum Federated Learning for Breast Cancer Classification" has been accepted for journal publication at Computer Methods and Programs in Biomedicine.
 </td></tr> 
 <tr><td> Aug. 2022: </td> <td> I have just started a postdoc position at IT University of Copenhagen with <a href="https://veronikach.com/">Veronika Cheplygina</a>.
