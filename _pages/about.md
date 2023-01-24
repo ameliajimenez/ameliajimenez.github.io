@@ -31,14 +31,13 @@ table, tr, td {
        <col span="1" style="width: 12%;">
        <col span="1" style="width: 88%;">
 </colgroup>
+<tr><td> Jan. 2023: </td> <td> Our work "Detecting Shortcuts in Medical Images — A Case Study in Chest X-rays" has been accepted at the International Symposium on Biomedical Imaging (ISBI).
+</td></tr> 
 <tr><td> Jan. 2023: </td> <td> We are organizing a webinar series: <a href="https://purrlab.github.io/webinar/">Datasets through the L👀king-Glass</a> to better understand what researchers are doing with their (meta-) data.
 </td></tr> 
 <tr><td> Dec. 2022: </td> <td> Our work "Memory-aware Curriculum Federated Learning for Breast Cancer Classification" has been accepted for journal publication at Computer Methods and Programs in Biomedicine.
 </td></tr> 
-<tr><td> Aug. 2022: </td> <td> I have just started a postdoc position at IT University of Copenhagen with <a href="https://veronikach.com/">Veronika Cheplygina</a>.
+<tr><td> Aug. 2022: </td> <td> I have started a postdoc position at IT University of Copenhagen with <a href="https://veronikach.com/">Veronika Cheplygina</a>.
 </td></tr> 
 <tr><td> Oct. 2021: </td> <td> I have successfully defended my PhD thesis "Learning Representations for Medical Image Diagnosis: Impact of Curriculum Training and Architectural Design". Thrilled to have been awarded with the mention "Cum Laude".
-</td></tr> 
-<tr><td> Oct. 2021: </td> <td> Our work "Curriculum Learning for Improved Femur Fracture Classification: Scheduling Data with Prior Knowledge and Uncertainty" has been accepted for journal publication at Medical Image Analysis.
-</td></tr> 
 </table>
