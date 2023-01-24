@@ -40,4 +40,5 @@ table, tr, td {
 <tr><td> Aug. 2022: </td> <td> I have started a postdoc position at IT University of Copenhagen with <a href="https://veronikach.com/">Veronika Cheplygina</a>.
 </td></tr> 
 <tr><td> Oct. 2021: </td> <td> I have successfully defended my PhD thesis "Learning Representations for Medical Image Diagnosis: Impact of Curriculum Training and Architectural Design". Thrilled to have been awarded with the mention "Cum Laude".
+</td></tr> 
 </table>
