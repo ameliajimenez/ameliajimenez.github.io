@@ -5,7 +5,7 @@ title: "About me"
 permalink: /aboutme/
 author_profile: true
 ---
-I am a postdoctoral researcher at [DASYA](https://dasya.itu.dk/) group at **IT University of Copenhagen**. I am working on the project [“Making Metadata Count"](https://purrlab.github.io/projects/3_mmc/) with [Veronika Cheplygina](https://veronikach.com/). With this project we aim to investigate meta-data-aware methods to avoid learning biases or shortcuts.
+I am a postdoctoral researcher at [DASYA](https://dasya.itu.dk/) group at **IT University of Copenhagen**. I am working on the project [“Making Metadata Count"](https://ameliajimenez.github.io/portfolio/portfolio-4) with [Veronika Cheplygina](https://veronikach.com/). With this project we aim to investigate meta-data-aware methods to avoid learning biases or shortcuts.
 
 I graduated with a dissertation in **learning representations for medical image diagnosis** at the **Pompeu Fabra University**. I was part of the [BCN MedTech](https://www.upf.edu/web/bcn-medtech/) group and my PhD thesis was supervised by [Gemma Piella](https://www.upf.edu/web/simbiosys/entry/-/-/37215/adscripcion/gemma-piella) and [Diana Mateus](https://www.ls2n.fr/annuaire/Diana%20MATEUS/) (Ecole Centrale Nantes). During this time, I was an [INPhINIT](https://fundacionlacaixa.org/en/inphinit-doctoral-fellowships-call) fellow funded by “La Caixa” foundation and EU Horizon 2020 Marie Skłodowska-Curie programme. I hold a degree in Telecommunications Engineering from the **University of Granada** and a Master of Science in Biomedical Computing from the **Technical University of Munich**. During my master’s studies I was a research assistant at the Rechts der Isar Hospital of Munich.
 
