@@ -31,12 +31,12 @@ table, tr, td {
        <col span="1" style="width: 12%;">
        <col span="1" style="width: 88%;">
 </colgroup>
+<tr><td> Feb. 2024: </td> <td> New <a href="https://arxiv.org/abs/2402.06353"> preprint</a> on sharing medical imaging datasets on community-contributed platforms.
+</td></tr> 
 <tr><td> Sept. 2023: </td> <td> Our work "Revisiting Hidden Representations in Transfer Learning for Medical Imaging" has been accepted at Transactions on Machine Learning Research (TMLR), congrats Dovile!
 </td></tr> 
 <tr><td> Jan. 2023: </td> <td> Our work "Detecting Shortcuts in Medical Images — A Case Study in Chest X-rays" has been accepted at the International Symposium on Biomedical Imaging (ISBI).
 </td></tr> 
 <tr><td> Jan. 2023: </td> <td> We are organizing a webinar series: <a href="https://purrlab.github.io/webinar/">Datasets through the L👀king-Glass</a> to better understand what researchers are doing with their (meta-) data.
-</td></tr> 
-<tr><td> Dec. 2022: </td> <td> Our work "Memory-aware Curriculum Federated Learning for Breast Cancer Classification" has been accepted for journal publication at Computer Methods and Programs in Biomedicine.
 </td></tr> 
 </table>
