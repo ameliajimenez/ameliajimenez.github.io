@@ -31,15 +31,13 @@ table, tr, td {
        <col span="1" style="width: 12%;">
        <col span="1" style="width: 88%;">
 </colgroup>
-<tr><td> June. 2024: </td> <td> Our work "[Citation needed] Data usage and citation practices in medical imaging conferences" has been accepted at MIDL as oral presentation, congrats Théo!
+<tr><td> June 2024: </td> <td> I had the honor to <a href="https://ameliajimenez.github.io/talks/2024-06-18-parliament-andalusia"> talk </a> at the work group of Artificial Intelligence at the Parliament of Andalusia.
+</td></tr> 
+<tr><td> June 2024: </td> <td> Our work "[Citation needed] Data usage and citation practices in medical imaging conferences" has been accepted at MIDL as oral presentation, congrats Théo!
 </td></tr> 
 <tr><td> Feb. 2024: </td> <td> New <a href="https://arxiv.org/abs/2402.06353"> preprint</a> on sharing medical imaging datasets on community-contributed platforms.
 </td></tr> 
 <tr><td> Dec. 2023: </td> <td> First edition of <a href="https://x.com/ameliajimsan/status/1737955363792523706"> Andaluz.IA </a> :) We are creating a community of researchers in/from Andalusia working on AI.
-</td></tr> 
-<tr><td> Sept. 2023: </td> <td> Our work "Revisiting Hidden Representations in Transfer Learning for Medical Imaging" has been accepted at Transactions on Machine Learning Research (TMLR), congrats Dovile!
-</td></tr> 
-<tr><td> Jan. 2023: </td> <td> Our work "Detecting Shortcuts in Medical Images — A Case Study in Chest X-rays" has been accepted at the International Symposium on Biomedical Imaging (ISBI).
 </td></tr> 
 <tr><td> Jan. 2023: </td> <td> We are organizing a webinar series: <a href="https://purrlab.github.io/webinar/">Datasets through the L👀king-Glass</a> to better understand what researchers are doing with their (meta-) data.
 </td></tr> 
