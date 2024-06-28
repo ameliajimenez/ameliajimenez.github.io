@@ -16,4 +16,6 @@ También traté la importancia de la ciencia abierta y la creación de bases de 
 
 Gracias al grupo de trabajo por la invitación y por dar voz a diversos sectores de la sociedad. Espero que las sesiones contribuyan a que los parlamentarios y las parlamentarias puedan tomar decisiones informadas y basadas en el conocimiento científico, lo cual será muy enriquecedor para Andalucía.
 
-Mi intervención se puede ver (desde España o con VPN) [aquí](https://videoteca.parlamentodeandalucia.es:443/watch?id=NTg4ZGRjNjQtM2RiMC00ZDczLTkyYjktMjRiYmMxMmM0OGE0&start=4440)
+Mi intervención se puede ver en [Youtube](https://youtu.be/AuUs1YnPsA4?si=RAig0cj7fNvbj8qa).
+
+<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://youtu.be/AuUs1YnPsA4?si=RAig0cj7fNvbj8qa" title="YouTube video player" width="560"></iframe>
