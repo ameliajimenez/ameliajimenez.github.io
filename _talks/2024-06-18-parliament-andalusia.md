@@ -18,4 +18,4 @@ Gracias al grupo de trabajo por la invitación y por dar voz a diversos sectores
 
 Mi intervención se puede ver en [Youtube](https://youtu.be/AuUs1YnPsA4?si=RAig0cj7fNvbj8qa).
 
-<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://youtu.be/AuUs1YnPsA4?si=RAig0cj7fNvbj8qa" title="YouTube video player" width="560"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AuUs1YnPsA4?si=K4uvpGovenOXCnwO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
