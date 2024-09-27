@@ -31,11 +31,11 @@ table, tr, td {
        <col span="1" style="width: 12%;">
        <col span="1" style="width: 88%;">
 </colgroup>
+<tr><td> Sept 2024: </td> <td> Our work "Copycats: the many lives of a publicly available medical imaging dataset" has been accepted at NeurIPS Datasets and Benchmarks Track!
+</td></tr> 
 <tr><td> June 2024: </td> <td> I had the honor to <a href="https://ameliajimenez.github.io/talks/2024-06-18-parliament-andalusia"> talk </a> at the work group of Artificial Intelligence at the Parliament of Andalusia.
 </td></tr> 
 <tr><td> June 2024: </td> <td> Our work "[Citation needed] Data usage and citation practices in medical imaging conferences" has been accepted at MIDL as oral presentation, congrats Théo!
-</td></tr> 
-<tr><td> Feb. 2024: </td> <td> New <a href="https://arxiv.org/abs/2402.06353"> preprint</a> on sharing medical imaging datasets on community-contributed platforms.
 </td></tr> 
 <tr><td> Dec. 2023: </td> <td> First edition of <a href="https://x.com/ameliajimsan/status/1737955363792523706"> Andaluz.IA </a> :) We are creating a community of researchers in/from Andalusia working on AI.
 </td></tr> 
