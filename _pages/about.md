@@ -31,7 +31,7 @@ table, tr, td {
        <col span="1" style="width: 12%;">
        <col span="1" style="width: 88%;">
 </colgroup>
-<tr><td> Nov 2024: </td> <td> I will be presenting soon our recent work, "Copycats" at several venues: poster presentation at the WiML workshop (10 Dec) and <a href="https://nips.cc/virtual/2024/poster/97652?show_abstract=true"> NeurIPS 2024 </a> (13 Dec) in Vancouver, Canada, as well as an oral presentation at Andaluz.IA (20 Dec) in Jaen, Spain. Come to say hi if you're around!'"
+<tr><td> Nov 2024: </td> <td> I will be presenting soon "Copycats" at the WiML workshop (10 Dec) and <a href="https://nips.cc/virtual/2024/poster/97652?show_abstract=true"> NeurIPS 2024 </a> (13 Dec) in Vancouver, Canada, as well as an oral presentation at Andaluz.IA (20 Dec) in Jaen, Spain. Come to say hi if you're around!'"
 </td></tr> 
 <tr><td> Sept 2024: </td> <td> Our work "Copycats: the many lives of a publicly available medical imaging dataset" has been accepted at NeurIPS Datasets and Benchmarks Track!
 </td></tr> 
