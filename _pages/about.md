@@ -39,8 +39,6 @@ table, tr, td {
 </td></tr> 
 <tr><td> June 2024: </td> <td> I had the honor to <a href="https://ameliajimenez.github.io/talks/2024-06-18-parliament-andalusia"> talk </a> at the work group of Artificial Intelligence at the Parliament of Andalusia.
 </td></tr> 
-<tr><td> June 2024: </td> <td> Our work "[Citation needed] Data usage and citation practices in medical imaging conferences" has been accepted at MIDL as oral presentation, congrats Théo!
-</td></tr> 
 <tr><td> Dec. 2023: </td> <td> First edition of <a href="https://x.com/ameliajimsan/status/1737955363792523706"> Andaluz.IA </a> :) We are creating a community of researchers in/from Andalusia working on AI.
 </td></tr> 
 <tr><td> Jan. 2023: </td> <td> We are organizing a webinar series: <a href="https://purrlab.github.io/webinar/">Datasets through the L👀king-Glass</a> to better understand what researchers are doing with their (meta-) data.
