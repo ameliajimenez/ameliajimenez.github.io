@@ -33,7 +33,7 @@ table, tr, td {
 </colgroup>
 <tr><td> March 2025: </td> <td> I will be presenting "Copycats" at the Pioner Centre for AI in Copenhagen on March 28th. 
 </td></tr> 
-<tr><td> Feb 2025: </td> <td> New dataset! NEATX: Non-Expert Annotations of Tubes in X-rays, available on [Zenodo](https://zenodo.org/records/14944064). 
+<tr><td> Feb 2025: </td> <td> New dataset! NEATX: Non-Expert Annotations of Tubes in X-rays, available on <a href="https://zenodo.org/records/14944064"> Zenodo</a>. 
 </td></tr> 
 <tr><td> Jan 2025: </td> <td> New preprint! <a href="https://arxiv.org/abs/2501.10727"> In the Picture: Medical Imaging Datasets, Artifacts, and their Living Review</a> We propose a living review that continuously tracks public datasets and their associated research artifacts across multiple medical imaging applications, check out our <a href="http://130.226.140.142/"> demo</a>!
 </td></tr> 
