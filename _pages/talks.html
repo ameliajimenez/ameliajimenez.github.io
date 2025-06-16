@@ -5,12 +5,203 @@ permalink: /talks/
 author_profile: true
 ---
 
-{% if site.talkmap_link == true %}
+<head>
+    <script src="https://kit.fontawesome.com/61ebb60581.js" crossorigin="anonymous"></script>
+    <style>
+        table {
+            font-family: arial, sans-serif;
+            border-collapse: collapse;
+        }
+        td {
+            text-align: left;
+            padding-bottom: 8px;
+            width: fit-content;
+        }
+        th {
+            text-align: left;
+            padding-bottom: 8px;
+            padding-top: 12px;
+        }
+        .container {
+            width: 60%;
+            min-width: 700px;
+            margin: auto;
+        }
+        .right-align {
+            text-align: right;
+            text-wrap: nowrap;
+        }
+    </style>
+</head>
 
-<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
-
-{% endif %}
-
-{% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
-{% endfor %}
+<body>
+    <div class="container">
+        <table>
+            <tr>
+                <th colspan="2"> <i> In the picture: medical imaging datasets, artifacts, and their living review </i> </th>
+            </tr>
+            <tr>
+                <td><li>ACM FAccT Conference, Athens (GR) - Conference Talk </li></td>
+                <td class=right-align>Jun 2025</td>
+            </tr>
+            <tr>
+                <td><li>Datasets through the Looking-Glass Webinar, Online - Invited Talk</li></td>
+                <td class=right-align>May 2025</td>
+            </tr>
+            <tr>
+                <td><li>Medical Image Analysis Lab at Simon Fraser University, Online - Invited Talk</li></td>
+                <td class=right-align>May 2025</td>
+            </tr>
+            <tr>
+                <th colspan="2"> <i> Copycats: the many lives of a publicly available medical imaging dataset </i> </th>
+            </tr>
+            <tr>
+                <td><li>Joint Seminar by Aalborg University and ITU, Copenhagen (DK) - Invited Talk</li></td>
+                <td class=right-align>Feb 2025</td>
+            </tr>
+            <tr>
+                <td><li>Albarqouni Lab, Bonn (DE) - Invited Talk</li></td>
+                <td class=right-align>Feb 2025</td>
+            </tr>
+            <tr>
+                <td><li>NeurIPS 2024, Vancouver (CA) - <a href="https://neurips.cc/virtual/2024/poster/97652"><i class="fab fa-youtube"> Conference Poster </i></a>
+                </li></td>
+                <td class=right-align>Dec 2024</td>
+            </tr>
+            <tr>
+                <td><li>Women in Machine Learning Workshop @ NeurIPS, Vancouver (CA) - Symposium Poster</li></td>
+                <td class=right-align>Dec 2024</td>
+            </tr>
+            <tr>
+                <td><li>Andaluz.IA 2024, Jaen (ES) - Symposium Talk</li></td>
+                <td class=right-align>Dec 2024</td>
+            </tr>
+            <tr>
+                <td><li>Digitalization, Data Science and AI - D3A 2.0, Nyborg Strand (DK), Symposium Poster</li></td>
+                <td class=right-align>Oct 2024</td>
+            </tr>
+            <tr>
+                <td><li>In the Picture: Medical Imaging Datasets Workshop, Nyborg Strand (DK) - Symposium Talk</li></td>
+                <td class=right-align>Sep 2024</td>
+            </tr>
+            <tr>
+                <th colspan="2"> <i> Detecting shortcuts in medical images - a case study in chest x-rays </i> </th>
+            </tr>
+            <tr>
+                <td><li> Digitalization, Data Science and AI - D3A 1.0, Nyborg Strand (DK) - Symposium Poster </li></td>
+                <td class=right-align>Feb 2024</td>
+            </tr>
+            <tr>
+                <td><li> Andaluz.IA 2023, Seville (ES) - Symposium Poster </li></td>
+                <td class=right-align>Dec 2023</td>
+            </tr>
+            <tr>
+                <td><li> ISBI 2023, Cartagena (CO) - Conference Poster </li></td>
+                <td class=right-align>Apr 2023</td>
+            </tr>
+            <tr>
+                <td><li> Women in Machine Learning Workshop @ NeurIPS, New Orleans (Online) - Symposium Poster </li></td>
+                <td class=right-align>Dec 2022</td>
+            </tr>
+            <tr>
+                <th colspan="2"> <i> Open science and Artificial Intelligence applied to medicine  </i> </th>
+            </tr>
+            <tr>
+                <td><li> AI Working Group of the Parliament of Andalusia, Seville (ES) - <a href="https://ameliajimenez.github.io/talks/2024-06-18-parliament-andalusia"><i class="fab fa-youtube"> Invited Talk </i></a>
+                </li></td>
+                <td class=right-align>Jun 2024</td>
+            </tr>
+            <tr>
+                <th colspan="2"> <i> Medical imaging: inside out </i> </th>
+            </tr>
+            <tr>
+                <td><li> Visual Trust Conference 2023, Barcelona (ES) - <a href="https://ameliajimenez.github.io/talks/2023-06-13-visual-trust"><i class="fab fa-youtube"> Invited Talk </i></a>
+                </li></td>
+                <td class=right-align>Jun 2023</td>
+            </tr>
+            <tr>
+                <td><li> University of Copenhagen, Copenhagen (DK) - Guest Lecture</li></td>
+                <td class=right-align>Oct 2023</td>
+            </tr>
+            <tr>
+                <th colspan="2"> <i> My journey with data science </i> </th>
+            </tr>
+            <tr>
+                <td><li> Danish Data Science Academy Mentor, Odense (DK) - <a href="https://ameliajimenez.github.io/talks/2023-02-06-ddsa">Invited Talk </a>
+                </li></td>
+                <td class=right-align>Feb 2023</td>
+            </tr>
+            <tr>
+                <td><li> PhD seminar @ Pompeu Fabra University, Online - Invited Talk</li></td>
+                <td class=right-align>Jan 2022</td>
+            </tr>
+            <tr>
+                <td><li> 1st We Run the World: showcasing young Andalusian women talent, Baeza (ES) - Invited Talk</li></td>
+                <td class=right-align>Jun 2022</td>
+            </tr>
+            <tr>
+                <td><li> Escola Sol Ixent - #100tífiques, Mataró (Online) - Invited Talk</li></td>
+                <td class=right-align>Mar 2021</td>
+            </tr>
+            <tr>
+                <td><li> Highschool IES Milá I Fontanals - Science Capsules, Barcelona (ES) - Invited Talk</li></td>
+                <td class=right-align>Mar 2019</td>
+            </tr>
+            <tr>
+                <th colspan="2"> <i> Augmenting chest x-ray datasets with non-expert annotations </i> </th>
+            </tr>
+            <tr>
+                <td><li> Towards the Next Generation of Computer Vision Datasets Workshop @ ICCV, Paris (FR) - Symposium Poster
+                </li></td>
+                <td class=right-align>Oct 2023</td>
+            </tr>
+            <tr>
+                <th colspan="2"> <i> Curriculum learning for improved femur fracture classification: scheduling data with prior knowledge and uncertainty </i> </th>
+            </tr>
+            <tr>
+                <td><li> Women in Machine Learning Workshop @ NeurIPS, New Orleans (Online) - Symposium Poster</li></td>
+                <td class=right-align>Dec 2022</td>
+            </tr>
+            <tr>
+                <th colspan="2"> <i> Learning representations for medical image diagnosis: impact of curriculum training and architectural design </i> </th>
+            </tr>
+            <tr>
+                <td><li> Helmholtz Munich, Munich (DE) - Invited Talk </li></td>
+                <td class=right-align>Nov 2021</td>
+            </tr>
+            <tr>
+                <td><li> McGill University, Online - Invited Talk </li></td>
+                <td class=right-align>Nov 2021</td>
+            </tr>
+            <tr>
+                <td><li> Pompeu Fabra University, Barcelona (ES) - PhD Thesis Defense </li></td>
+                <td class=right-align>Oct 2021</td>
+            </tr>
+            <tr>
+                <th colspan="2"> <i> Precise proximal femur fracture classification for interactive training and surgical planning</i> </th>
+            </tr>
+            <tr>
+                <td><li> IPCAI 2020, Munich (Online) - Conference Talk </li></td>
+                <td class=right-align>Jun 2020</td>
+            </tr>
+            <tr>
+                <th colspan="2"> <i> Medical-based deep curriculum learning for improved fracture classification</i> </th>
+            </tr>
+            <tr>
+                <td><li> Deep Learning Barcelona - DLBCN 2019, Barcelona (ES) - Symposium Poster  </li></td>
+                <td class=right-align>Dec 2019</td>
+            </tr>
+            <tr>
+                <td><li> MICCAI 2019, Shenzhen (CN) - Conference Poster </li></td>
+                <td class=right-align>Oct 2019</td>
+            </tr>
+            <tr>
+                <th colspan="2"> <i> Capsule networks against medical imaging data challenges</i> </th>
+            </tr>
+            <tr>
+                <td><li> LABELS Workshop @ MICCAI 2018, Granada (ES) - Conference Talk & Poster  </li></td>
+                <td class=right-align>Oct 2018</td>
+            </tr>
+        </table>
+    </div>
+</body>
