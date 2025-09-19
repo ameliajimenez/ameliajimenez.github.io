@@ -5,7 +5,7 @@ title: "About me"
 permalink: /aboutme/
 author_profile: true
 ---
-I am a postdoctoral researcher [BCN-AIM lab](https://www.bcn-aim.org/) at **University of Barcelona**. I am working on the project ["The Diversis Viis, Plurima Solvens (DVPS)"](https://www.bcn-aim.org/dvps/) with [Karim Lekadir](https://www.bcn-aim.org/about-us/the-team/). With this project we aim to advance multimodal foundation models for cardiology.
+I am a postdoctoral researcher at [BCN-AIM lab](https://www.bcn-aim.org/) at the **University of Barcelona**. I am working on the project ["The Diversis Viis, Plurima Solvens (DVPS)"](https://www.bcn-aim.org/dvps/) with [Karim Lekadir](https://www.bcn-aim.org/about-us/the-team/). With this project we aim to advance multimodal foundation models for cardiology.
 
 Before that, I was a postdoctoral researcher at [PURRlab](https://purrlab.github.io/) group at **IT University of Copenhagen**. I am working on the project [“Making Metadata Count"](https://ameliajimenez.github.io/portfolio/portfolio-4) with [Veronika Cheplygina](https://veronikach.com/). With this project we investigated meta-data-aware methods to avoid learning biases or shortcuts.
 
