@@ -31,6 +31,8 @@ table, tr, td {
        <col span="1" style="width: 12%;">
        <col span="1" style="width: 88%;">
 </colgroup>
+<tr><td> Sept 2025: </td> <td> I have joined the <a href="https://www.bcn-aim.org/"> BCN-AIM lab</a> at Universitat de Barcelona as a postdoctoral researcher, focusing on <a href="https://www.bcn-aim.org/dvps/"> foundation models</a>.
+</td></tr> 
 <tr><td> May 2025: </td> <td> New dataset-centric paper accepted at MIUA 2025! Check out our work, <a href="https://arxiv.org/abs/2309.02244"> Augmenting Chest X-ray Datasets with Non-Expert Annotations</a>, and <a href="https://zenodo.org/records/14944064/"> NEATX dataset</a>.
 </td></tr> 
 <tr><td> April 2025: </td> <td> Our work <a href="https://arxiv.org/abs/2501.10727"> In the Picture: Medical Imaging Datasets, Artifacts, and their Living Review</a> has been accepted to ACM FAccT 2025! Check out our <a href="http://130.226.140.142/"> demo</a>.
