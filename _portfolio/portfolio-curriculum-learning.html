@@ -1,8 +1,8 @@
 ---
-title: "Curriculum Learning"
+title: "Curriculum learning: scheduling training data"
 excerpt: "Short description of portfolio item number 1"
 collection: portfolio
-permalink: /portfolio/portfolio-1
+permalink: /portfolio/portfolio-curriculum-learning
 ---
 
 <head>
@@ -11,13 +11,13 @@ permalink: /portfolio/portfolio-1
 
 <p>In a typical educational system, learning relies on a <strong>curriculum</strong> that introduces new concepts building upon previously acquired ones. The rationale behind, is that humans and animals learn better when information is presented in a meaningful way rather than randomly. We follow this starting small concept to design our approaches with convolutional neural networks for medical image classification tasks. </p>
 
-<p>In our novel formulation we reunite three <strong>curriculum learning strategies</strong>: individually <strong>weighting</strong> training samples, <strong>reordering</strong> the training set, and <strong>sampling subsets</strong> of data into a <strong>data scheduler</strong>. The core of these strategies is a <strong>scoring function</strong> ranking the training samples. We define two novel scoring functions: one from <strong>domain-specific prior knowledge</strong> and an original <strong>self-paced uncertainty score</strong>. </p>
+<p> I developed a <b>novel curriculum learning (CL) strategy</b> to improve femur fracture classification from X-rays <b>[JA19]</b>, showing that training sample order significantly impacts model performance, especially in medical contexts where domain knowledge is key. By integrating <b>domain knowledge</b> from medical guidelines, expert annotations, and ambiguities in their annotations, I improved model reliability and classification accuracy. I further extended this work into a comprehensive CL framework with three strategies: sample weighting, training set ordering, and subset sampling <b>[JA22]</b>. Additionally, I showed that <b>model uncertainty</b> can serve as a fallback when domain knowledge is unavailable.
 
-<p>Another approach to deal with class-imbalance and restricted-size datasets is to join forces across multiple institutions. Recently, <strong>federated learning</strong> has emerged as an effective tool for collaborative learning. In this setting, local models perform computation on their private data to update the global model. The order and the frequency of local updates influence the final global model. Hence, the order in which samples are locally presented to the optimizers plays an important role. In this work, we define a <strong>memory-aware curriculum learning method for the federated setting</strong>. Our curriculum controls the order of the training samples paying special <strong>attention to those that are forgotten after the deployment of the global model</strong>. Our approach is <strong>combined with unsupervised domain adaptation</strong> to deal with domain shift while preserving data privacy.  </p>
+<p> To culminate this line of research, I designed a <b>federated learning (FL) framework</b> that integrates CL and unsupervised domain adaptation to improve breast cancer classification across multi-centers datasets <b>[JA23a]</b>. FL offers a secure and privacy preserving method to train a ML algorithm across multiple decentralized nodes that keep their data samples locally. In this setting, local models perform computation on their private data to update the global model. Our CL approach utilized a <b>data scheduler</b> to prioritize local training samples, with the objective of reinforcing local model consistency by penalizing forgotten samples.
 
 <h2> Publications </h2>
 
-<p><strong>Medical-based Deep Curriculum Learning for Improved Fracture Classification</strong>
+<p><strong> [JA19] Medical-based deep curriculum learning for improved fracture classification</strong>
 <br>Amelia Jiménez-Sánchez, Diana Mateus, Sonja Kirchhoff, Chlodwig Kirchhoff, Peter Biberthaler, Nassir Navab, Miguel A. González Ballester, Gemma Piella
 <br>MICCAI 2019
 <br><a href="https://arxiv.org/abs/2004.00482"><i class="fas fa-file-pdf"> PDF</i></a> &nbsp
@@ -26,17 +26,17 @@ permalink: /portfolio/portfolio-1
 <a href="https://www.upf.edu/documents/227877672/228393595/miccai19_poster.pdf/4a06d02d-b138-8ebc-cd4f-ca875c5c46ac"><i class="fas fa-clipboard"> Poster</i></a> 
 </p>
 
-<p><strong>Curriculum Learning for Improved Femur Fracture Classification: Scheduling Data with Prior Knowledge and Uncertainty</strong>
-<br>Amelia Jiménez-Sánchez, Diana Mateus, Sonja Kirchhoff, Chlodwig Kirchhoff, Peter Biberthaler, Nassir Navab, Miguel A. González Ballester, Gemma Piella<br>Medical Image Analysis 2021<br>
+<p><strong> [JA22] Curriculum learning for improved femur fracture classification: scheduling data with prior knowledge and uncertainty</strong>
+<br>Amelia Jiménez-Sánchez, Diana Mateus, Sonja Kirchhoff, Chlodwig Kirchhoff, Peter Biberthaler, Nassir Navab, Miguel A. González Ballester, Gemma Piella<br>Medical Image Analysis 2022<br>
 <a href="https://arxiv.org/abs/2007.16102"><i class="fas fa-file-pdf"> PDF</i></a> &nbsp 
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841521003182"><i class="fas fa-book"> Bibtex</i></a> &nbsp
 <a href="https://github.com/ameliajimenez/curriculum-learning-prior-uncertainty"><i class="fab fa-github"> Code</i></a>
 </p>
 
-<p><strong>Memory-aware curriculum federated learning for breast cancer classification</strong>
+<p><strong> [JA23a] Memory-aware curriculum federated learning for breast cancer classification</strong>
 <br>Amelia Jiménez-Sánchez, Mickael Tardy, Miguel A. González Ballester, Diana Mateus, Gemma Piella<br>
-Computer Methods and Programs in Biomedicine <br>
-<a href="https://arxiv.org/abs/2107.02504"><i class="fas fa-file-pdf"> PDF</i></a> &nbsp 
+Computer Methods and Programs in Biomedicine 2023<br>
+<a href="https://arxiv.org/abs/2107.02504"><i class="fas fa-file-pdf"> PDF</i></a> &nbsp
 <a href="https://www.sciencedirect.com/science/article/pii/S016926072200699X"><i class="fas fa-book"> Bibtex</i></a> &nbsp
 </p>
 

@@ -1,0 +1,40 @@
+---
+title: "Fairness: detecting bias and shortcuts"
+excerpt: "Short description of portfolio item number 3"
+collection: portfolio
+permalink: /portfolio/portfolio-fairness
+---
+
+<head>
+<script src="https://kit.fontawesome.com/61ebb60581.js" crossorigin="anonymous"></script>
+</head>
+
+<p> The availability of large public datasets and increased computing power have shifted the medical imaging community's focus to high-performance algorithms. However, <b>data quality and annotations</b> receive little attention. While ML has shown promising results in medical image diagnosis, often claiming expert-level performance, many algorithms are still hindered by issues such as <b>bias and shortcuts</b>. Bias primarily impacts underrepresented demographic groups based on factors such as gender or race. Shortcuts refer to spurious correlations between artifacts in images and diagnostic labels. To address this, I proposed methods for <b>detecting shortcut learning</b> and compiled a glossary of terms to help researchers navigate the literature <b>[JA23b]</b>. I conducted systematic experiments on two publicly available chest X-ray datasets that demonstrate performance degradation when images with drains are excluded. Building on this, with colleagues at ITU, we enhance two publicly available chest X-ray datasets by adding non-expert annotations of chest tubes <b>[CV25]</b>, using a <b>crowdsourcing</b> approach where data science students (non-medical experts) performed the annotations. As an output, we created the <b>Non-Expert Annotations of Tubes in X-rays (NEATX) dataset</b>. Further work on eye fundus images revealed models relying on irrelevant regions <b>[ST25]</b>. Our analysis extends beyond performance metrics, using the <b>SHAP explainability</b> method and <b>embedding analysis</b> to better understand model behavior.
+</p>
+
+<h2> Publications </h2>
+
+<p><strong> [CV25] Augmenting chest x-ray datasets with non-expert annotations</strong>
+<br> Veronika Cheplygina, Cathrine Damgaard, Trine Naja Eriksen, Dovile Juodelyte, <strong>Amelia Jiménez-Sánchez</strong> <br>
+Medical Image Understanding and Analysis -- MIUA 2025 [oral] <br>
+<a href="https://arxiv.org/abs/2309.02244"><i class="fas fa-file-pdf"> PDF</i></a> &nbsp
+<a href="https://github.com/purrlab/chestxr-label-reliability"><i class="fab fa-github"> Code</i></a> &nbsp
+<a href="https://zenodo.org/records/14944064"><i class="fa fa-database"> Dataset</i></a>
+</p>
+<p><strong> [ST25] Mask of truth: model sensitivity to unexpected regions of medical images</strong>
+<br> Théo Sourget, Michelle Hestbek-Møller, <strong>Amelia Jiménez-Sánchez</strong>, Jack Junchi Xu, Veronika Cheplygina<br>
+Journal of Imaging Informatics in Medicine 2025<br>
+<a href="https://arxiv.org/abs/2412.04030"><i class="fas fa-file-pdf"> PDF</i></a> &nbsp
+<a href="https://github.com/TheoSourget/MMC_Masking_EyeFundus"><i class="fab fa-github"> Code</i></a>
+</p>
+<p><strong> [JA23b] Detecting shortcuts in medical images — a case study in chest x-rays</strong>
+<br> <strong>Amelia Jiménez-Sánchez</strong>, Dovile Juodelyte, Bethany Chamberlain, Veronika Cheplygina <br>
+International Symposium on Biomedical Imaging -- ISBI 2023 <br>
+<a href="https://arxiv.org/abs/2211.04279"><i class="fas fa-file-pdf"> PDF</i></a> &nbsp
+<a href="https://github.com/ameliajimenez/shortcuts-chest-xray"><i class="fab fa-github"> Code</i></a>
+</p>
+
+<h2> Funding </h2>
+<ul>
+    <li> DFF (Independent Research Council Denmark) Inge Lehmann 1134-00017B.</li>
+</ul>

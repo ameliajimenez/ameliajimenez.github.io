@@ -1,0 +1,42 @@
+---
+title: "Transfer learning and choice intuition"
+excerpt: "Short description of portfolio item number 2"
+collection: portfolio
+permalink: /portfolio/portfolio-transfer-learning
+---
+
+<head>
+<script src="https://kit.fontawesome.com/61ebb60581.js" crossorigin="anonymous"></script>
+</head>
+
+<p> While a key component to the success of deep learning is the availability of massive amounts of training data, medical image datasets are often limited in diversity and size. <b>Transfer learning</b> has the potential to bridge the gap between related yet different domains [GC17]. For medical applications, however, it remains unclear whether it is more beneficial to <b>pre-train</b> on natural or medical images. Our study contributes to this discussion by comparing initialization on two large-scale datasets, ImageNet (natural) and RadImageNet (medical), across seven medical classification tasks <b>[JD23]</b>.
+</p>
+
+<p> To further understand model robustness, we introduced the <b>Medical Imaging Contextualized Confounder Taxonomy (MICCAT)</b> <b>[JD24]</b>, a framework where we conceptualize confounders in medical imaging. We investigated a range of confounders, both synthetic and sampled from the data, using two public chest X-ray and CT datasets. Based on our findings, we recommend that researchers assess model robustness with careful consideration of pre-training sources and confounding factors.
+</p>
+
+<p> Our latest study <b>[LY26]</b> takes a complementary <b>Human-computer interaction (HCI)</b> approach, using a <b>task-based survey</b> to explore how machine learning practitioners choose their <b>source datasets</b> for transfer learning. We find that <b>decisions</b> depend on task context, community norms, dataset properties, and perceived similarity. Ambiguous terminology further underscores the need for clearer definitions and HCI tools. By clarifying these heuristics, our work offers practical insights for more systematic source dataset selection in transfer learning.
+</p>
+
+<h2> Publications </h2>
+<p><strong>[JD23] Revisiting hidden representations in transfer learning for medical imaging</strong>
+<br> Dovile Juodelyte, <strong>Amelia Jiménez-Sánchez</strong>, Veronika Cheplygina <br>
+Transactions on Machine Learning Research -- TMLR 2023 <br>
+<a href="https://arxiv.org/abs/2302.08272"><i class="fas fa-file-pdf"> PDF</i></a> &nbsp
+<a href="https://github.com/DovileDo/revisiting-transfer"><i class="fab fa-github"> Code</i></a>
+</p>
+<p><strong>[JD24] Source matters: source dataset impact on model robustness in medical imaging </strong>
+<br> Dovile Juodelyte, Yucheng Lu, <strong>Amelia Jiménez-Sánchez</strong>, Sabrina Bottazzi, Enzo Ferrante, Veronika Cheplygina
+<br>AMAI Workshop @ Medical Image Computing and Computer Assisted Intervention -- MICCAI 2024 [oral]<br>
+<a href="https://arxiv.org/abs/2403.04484"><i class="fas fa-file-pdf"> PDF</i></a> &nbsp
+<a href="https://github.com/DovileDo/source-matters"><i class="fab fa-github"> Code</i></a>
+</p>
+<p><strong>[LY26] Intuitions of machine learning researchers about transfer learning for medical image classification </strong>
+<br> Yucheng Lu, Hubert Dariusz Zając, Veronika Cheplygina, <strong>Amelia Jiménez-Sánchez</strong>
+<br> Preprint, under review<br>
+
+<h2> Funding </h2>
+<ul>
+    <li> DFF (Independent Research Council Denmark) Inge Lehmann 1134-00017B.</li>
+    <li> Novo Nordisk Foundation NNF21OC0068816. </li>
+</ul>
