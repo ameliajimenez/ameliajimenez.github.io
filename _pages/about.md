@@ -31,22 +31,22 @@ table, tr, td {
        <col span="1" style="width: 12%;">
        <col span="1" style="width: 88%;">
 </colgroup>
-<tr><td> Sept 2025: </td> <td> I have joined the <a href="https://www.bcn-aim.org/"> BCN-AIM lab</a> at Universitat de Barcelona as a postdoctoral researcher, focusing on <a href="https://www.bcn-aim.org/dvps/"> foundation models</a>.
+<tr><td> Sep 2025: </td> <td> I have joined the <a href="https://www.bcn-aim.org/"> BCN-AIM lab</a> at Universitat de Barcelona as a postdoctoral researcher, focusing on <a href="https://www.bcn-aim.org/dvps/"> foundation models</a>.
+</td></tr>
+<tr><td> Sep 2025: </td> <td> I received a <a href="https://conferences.miccai.org/2025/en/MICCAI-2025-OUTSTANDING-REVIEWER-AWARDS.html"> Reviewer Honorable Mention</a> at MICCAI 2025.
 </td></tr> 
-<tr><td> May 2025: </td> <td> New dataset-centric paper accepted at MIUA 2025! Check out our work, <a href="https://arxiv.org/abs/2309.02244"> Augmenting Chest X-ray Datasets with Non-Expert Annotations</a>, and <a href="https://zenodo.org/records/14944064/"> NEATX dataset</a>.
+<tr><td> May 2025: </td> <td> Dataset-centric paper accepted at MIUA 2025! Check out our work, <a href="https://arxiv.org/abs/2309.02244"> Augmenting Chest X-ray Datasets with Non-Expert Annotations</a>, and <a href="https://zenodo.org/records/14944064/"> NEATX dataset</a>.
 </td></tr> 
-<tr><td> April 2025: </td> <td> Our work <a href="https://arxiv.org/abs/2501.10727"> In the Picture: Medical Imaging Datasets, Artifacts, and their Living Review</a> has been accepted to ACM FAccT 2025! Check out our <a href="http://130.226.140.142/"> demo</a>.
+<tr><td> Apr 2025: </td> <td> <a href="https://arxiv.org/abs/2501.10727"> In the Picture: Medical Imaging Datasets, Artifacts, and their Living Review</a> has been accepted to ACM FAccT 2025! Check out our <a href="http://130.226.140.142/"> demo</a>.
+</td></tr>
+<tr><td> Sep 2024: </td> <td> "Copycats: the many lives of a publicly available medical imaging dataset" has been accepted to the NeurIPS Datasets and Benchmarks Track!
 </td></tr> 
-<tr><td> Feb 2025: </td> <td> New dataset! NEATX: Non-Expert Annotations of Tubes in X-rays, available on <a href="https://zenodo.org/records/14944064"> Zenodo</a>. 
+<tr><td> Jul 2024: </td> <td> I was awarded an <a href="https://2024.midl.io/awards"> Outstanding Reviewer </a> recognition at MIDL 2024.
 </td></tr> 
-<tr><td> Nov 2024: </td> <td> I will be presenting "Copycats" at the WiML workshop (10 Dec) and <a href="https://nips.cc/virtual/2024/poster/97652?show_abstract=true"> NeurIPS 2024</a> (13 Dec) in Vancouver, Canada, as well as an oral presentation at <a href="https://sites.google.com/view/andaluzia/program"> Andaluz.IA</a> (20 Dec) in Jaen, Spain. Come to say hi if you're around!
+<tr><td> Jun 2024: </td> <td> I had the honor to give a<a href="https://ameliajimenez.github.io/talks/2024-06-18-parliament-andalusia"> talk </a> at the AI Working Group of the Parliament of Andalusia.
 </td></tr> 
-<tr><td> Sept 2024: </td> <td> Our work "Copycats: the many lives of a publicly available medical imaging dataset" has been accepted at NeurIPS Datasets and Benchmarks Track!
+<tr><td> Dec 2023: </td> <td> First edition of <a href="https://x.com/ameliajimsan/status/1737955363792523706"> Andaluz.IA </a> :) We are creating a community of researchers in/from Andalusia working on AI.
 </td></tr> 
-<tr><td> June 2024: </td> <td> I had the honor to <a href="https://ameliajimenez.github.io/talks/2024-06-18-parliament-andalusia"> talk </a> at the work group of Artificial Intelligence at the Parliament of Andalusia.
-</td></tr> 
-<tr><td> Dec. 2023: </td> <td> First edition of <a href="https://x.com/ameliajimsan/status/1737955363792523706"> Andaluz.IA </a> :) We are creating a community of researchers in/from Andalusia working on AI.
-</td></tr> 
-<tr><td> Jan. 2023: </td> <td> We are organizing a webinar series: <a href="https://purrlab.github.io/webinar/">Datasets through the L👀king-Glass</a> to better understand what researchers are doing with their (meta-) data.
+<tr><td> Jan 2023: </td> <td> We are organizing a webinar series: <a href="https://medical-datasets.github.io/webinar/">Datasets through the L👀king-Glass</a> to better understand what researchers are doing with their (meta-) data.
 </td></tr> 
 </table>
