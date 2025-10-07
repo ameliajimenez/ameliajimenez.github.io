@@ -10,7 +10,7 @@ redirect_from:
 ---
 
 <div style="padding-top:1rem; padding-bottom:2rem">
-<p>Hi, I am **Amelia**. Welcome to my webpage!</p>
+<p>Hi, I am <b>Amelia</b>. Welcome to my webpage!</p>
 
 <p>I am a research data scientist excited to develop fairer AI algorithms for a diverse society.</p>
 
