@@ -10,11 +10,11 @@ redirect_from:
 ---
 
 <div style="padding-top:1rem; padding-bottom:2rem">
-Hi, I am **Amelia**. Welcome to my webpage!
+<p>Hi, I am **Amelia**. Welcome to my webpage!</p>
 
-I am a research data scientist excited to develop fairer AI algorithms for a diverse society
+<p>I am a research data scientist excited to develop fairer AI algorithms for a diverse society.</p>
 
-This website contains some personal and professional information about me.
+<p>This website contains some personal and professional information about me.</p>
 </div>
 
 ## News
