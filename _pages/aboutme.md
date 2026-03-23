@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: archive
 classes: wide
 title: "About me"
 permalink: /aboutme/
