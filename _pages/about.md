@@ -31,6 +31,11 @@ table, tr, td {
                <col span="1" style="width: 88%;">
         </colgroup>
         <tr>
+            <td> July 2026: </td> 
+            <td> Featured in Nature's technology piece <a href="https://www.nature.com/articles/d41586-026-01982-y"> "How FAIR data are helping to builid trust in science"</a>.
+            </td>
+        </tr>
+        <tr>
             <td> Mar 2026: </td> 
             <td> New preprints on foundation models: <a href="https://arxiv.org/abs/2603.10967"> federated adaptation for disease detection in 3D cardiac MRI</a>, <a href="https://arxiv.org/abs/2603.18123"> understanding task aggregation for generalizable ultrasound tasks</a>.
             </td>
