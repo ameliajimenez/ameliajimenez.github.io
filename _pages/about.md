@@ -31,6 +31,10 @@ table, tr, td {
                <col span="1" style="width: 88%;">
         </colgroup>
         <tr>
+            <td> Sep 2026: </td>
+            <td> I received a <a href="https://conferences.miccai.org/2026/en/MICCAI-2026-OUTSTANDING-REVIEWER-AWARDS.html"> Reviewer Honorable Mention</a> at MICCAI 2026.</td>
+        </tr> 
+        <tr>
             <td> July 2026: </td> 
             <td> Featured in Nature's technology piece <a href="https://www.nature.com/articles/d41586-026-01982-y"> "How FAIR data are helping to builid trust in science"</a>.
             </td>
@@ -45,10 +49,6 @@ table, tr, td {
             <td> I have joined the <a href="https://www.bcn-aim.org/"> BCN-AIM lab</a> at Universitat de Barcelona as a postdoctoral researcher, focusing on <a href="https://www.bcn-aim.org/dvps/"> foundation models</a>.
             </td>
         </tr>
-        <tr>
-            <td> Sep 2025: </td>
-            <td> I received a <a href="https://conferences.miccai.org/2025/en/MICCAI-2025-OUTSTANDING-REVIEWER-AWARDS.html"> Reviewer Honorable Mention</a> at MICCAI 2025.</td>
-        </tr> 
         <tr>
             <td> Sep 2025: </td>
             <td> New preprint! <a href="https://arxiv.org/abs/2510.00902"> uncovering ML researchers' intuitions on transfer learning in medical image classification</a>.
