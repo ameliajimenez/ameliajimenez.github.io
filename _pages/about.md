@@ -64,18 +64,5 @@ table, tr, td {
             <td> <a href="https://arxiv.org/abs/2501.10727"> In the Picture: Medical Imaging Datasets, Artifacts, and their Living Review</a> has been accepted to ACM FAccT 2025! Check out our <a href="http://130.226.140.142/"> demo</a>.
             </td>
         </tr>
-        <tr>
-            <td> Sep 2024: </td> 
-            <td> "Copycats: the many lives of a publicly available medical imaging dataset" has been accepted to the NeurIPS Datasets and Benchmarks Track!</td>
-        </tr> 
-        <tr>
-            <td> Jul 2024: </td> 
-            <td> I was awarded an <a href="https://2024.midl.io/awards"> Outstanding Reviewer </a> recognition at MIDL 2024.</td>
-        </tr> 
-        <tr>
-            <td> Jun 2024: </td> 
-            <td> I had the honor to give a<a href="https://ameliajimenez.github.io/talks/2024-06-18-parliament-andalusia"> talk </a> at the AI Working Group of the Parliament of Andalusia.
-        </td>
-        </tr>
     </table>
 </div>
