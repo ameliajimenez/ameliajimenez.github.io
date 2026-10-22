@@ -32,6 +32,10 @@ table, tr, td {
         </colgroup>
         <tr>
             <td> Oct 2026: </td>
+            <td> New <a href="https://arxiv.org/abs/2610.26871"> preprint </a> on equity and representation at MICCAI! </td>
+        </tr> 
+        <tr>
+            <td> Oct 2026: </td>
             <td> Upcoming invited talk at FAIMI Online Symposium on 24 November 2026. </td>
         </tr> 
         <tr>
